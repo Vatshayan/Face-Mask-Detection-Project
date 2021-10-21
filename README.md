@@ -27,6 +27,7 @@ No MAsk Image:
 updating soon 22 Oct with files
 
 ## Contact : vatshayan007@gmail.com if you want all files soon
+[This project files Include PPT, Synopsis, Report, Research Papers and Project Code]
 
 #free_dicsussion
 
