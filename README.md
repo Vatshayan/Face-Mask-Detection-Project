@@ -7,7 +7,9 @@ The spread of Coronavirus started at the end of the year 2019 from the city of C
 
 ## Code: **[Click](https://github.com/Vatshayan/Face-Mask-Detection-Project/blob/main/Face_Mask_detection_in_Code_.ipynb)**
 
-## Outputs:
+## Research Paper: [Click](https://www.irjet.net/archives/V7/i11/IRJET-V7I11216.pdf)
+
+## Sample Outputs:
 
 Mask Image:
 
