@@ -2,7 +2,7 @@
 Final Year College Project Face Mask Detection Project. This project Include PPT, Synopsis, Report and Project Code. 
 
 
-Code: 
+Code: **[Click](https://github.com/Vatshayan/Face-Mask-Detection-Project/blob/main/Face_Mask_detection_in_Code_.ipynb)**
 
 Mask: 
 
