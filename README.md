@@ -3,3 +3,5 @@ Final Year College Project Face Mask Detection Project. This project Include PPT
 
 
 updating soon 22 Oct with Code and files
+
+Contact : vatshayan007@gmail.com if you want all files soon
