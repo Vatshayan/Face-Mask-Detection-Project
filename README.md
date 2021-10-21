@@ -29,6 +29,12 @@ updating soon 22 Oct with files
 ## Contact : vatshayan007@gmail.com if you want all files soon
 [This project files Include PPT, Synopsis, Report, Research Papers and Project Code]
 
+📫 How to reach me
+
+WhatsApp: +91 9310631437 (Helping 24*7)
+
+Gmail: vatshayan007@gmail.com
+
 #free_dicsussion
 
 #free_explanation
