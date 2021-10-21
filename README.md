@@ -27,3 +27,11 @@ No MAsk Image:
 updating soon 22 Oct with files
 
 ## Contact : vatshayan007@gmail.com if you want all files soon
+
+#free_dicsussion
+
+#free_explanation
+
+#helping_always
+
+#Good_marks
