@@ -14,17 +14,7 @@ The spread of Coronavirus started at the end of the year 2019 from the city of C
 
 ## Sample Outputs:
 
-Mask Image:
-
-
-![mask_3](https://user-images.githubusercontent.com/28294942/138250235-7f4eb6b0-678a-491c-8b77-00bada874df0.jpg)
-
-
-No MAsk Image:
-
-
-![Unknown](https://user-images.githubusercontent.com/28294942/138250139-09e8cf31-f549-46b5-98e3-b53557dd3c7f.jpg)
-
+Project Video Demo : https://youtu.be/7hLboIeBeTk 
 
 
 
@@ -38,10 +28,4 @@ No MAsk Image:
 
 ### Gmail: vatshayan007@gmail.com
 
-#free_dicsussion
 
-#free_explanation
-
-#helping_always
-
-#Good_marks
