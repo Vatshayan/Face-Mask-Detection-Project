@@ -12,9 +12,9 @@ The spread of Coronavirus started at the end of the year 2019 from the city of C
 
 ## Research Paper: [Click](https://www.irjet.net/archives/V7/i11/IRJET-V7I11216.pdf)
 
-## Sample Outputs:
+## Project Video Demo: https://youtu.be/7hLboIeBeTk 
 
-Project Video Demo : https://youtu.be/7hLboIeBeTk 
+
 
 
 
